@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35118.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dharm", "dharm.csproj", "{8C254FAB-665C-43DD-89C9-CE2F1F78F847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C254FAB-665C-43DD-89C9-CE2F1F78F847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C254FAB-665C-43DD-89C9-CE2F1F78F847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C254FAB-665C-43DD-89C9-CE2F1F78F847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C254FAB-665C-43DD-89C9-CE2F1F78F847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23FB0310-2FF6-4509-BB76-CD045E95153B}
+	EndGlobalSection
+EndGlobal
